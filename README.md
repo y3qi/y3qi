@@ -18,11 +18,11 @@
 
 ---
 
-### 📈 Statistiken & Views
+### 📈 Views
 
-| **GitHub Stats** | **Profile Views** |
+| **Profile Views** |
 | :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[y3qi]&show_icons=true&theme=radical) | ![Views](https://komarev.com/ghpvc/?username=[y3qi]&color=blueviolet&style=flat-square) |
+| ![Views](https://komarev.com/ghpvc/?username=y3qi&color=blueviolet&style=flat-square) |
 
 ---
 
