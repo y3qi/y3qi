@@ -1,4 +1,4 @@
-# Hey, i'm [Yuqi]! 👋
+# Hey, i'm Yuqi! 👋
 
 ### 🚀 Hobby-Dev
 
