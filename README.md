@@ -21,7 +21,7 @@
 
 ### 📈 Views
 
-![Views](https://komarev.com/ghpvc/?username=y3qi&color=ffffff&style=flat-square&label=VIEWS&label_color=ffffff&text_color=000000)
+![Views](https://komarev.com/ghpvc/?username=y3qi&color=ffffff&style=flat-square&label=VIEWS&label_color=000000&text_color=000000)
 
 ---
 
