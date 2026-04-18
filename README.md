@@ -17,13 +17,11 @@
 ![Deutsch](https://img.shields.io/badge/Deutsch-Muttersprache-ffffff?style=flat-square&color=ffffff&labelColor=ffffff&logoColor=000000)
 ![Englisch](https://img.shields.io/badge/Englisch-Fließend-ffffff?style=flat-square&color=ffffff&labelColor=ffffff&logoColor=000000)
 
-> *Hinweis: Da GitHub im Light Mode einen weißen Hintergrund hat, erscheinen diese Badges jetzt sehr minimalistisch. Im Dark Mode haben sie einen scharfen Kontrast.*
-
 ---
 
 ### 📈 Views
 
-![Views](https://komarev.com/ghpvc/?username=y3qi&color=000000&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=y3qi&color=ffffff&style=flat-square&label=VIEWS&label_color=ffffff&text_color=000000)
 
 ---
 
