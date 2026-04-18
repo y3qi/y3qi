@@ -21,10 +21,10 @@
 
 ### 📈 Views
 
-![Views](https://komarev.com/ghpvc/?username=y3qi&color=ffffff&style=flat-square&label=VIEWS&label_color=000000&text_color=000000)
+![Views](https://komarev.com/ghpvc/?username=y3qi&color=ffffff&style=flat-square&label=VIEWS&label_color=ffffff&text_color=000000)
 
 ---
 
 ### 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000&color=ffffff)](https://discord.com/users/[y3qi.])
+[![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000&color=ffffff)](https://discord.com/users/y3qi.)
