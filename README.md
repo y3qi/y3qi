@@ -13,6 +13,7 @@
 ---
 
 **💬Languages**
+
 ![Deutsch](https://img.shields.io/badge/Deutsch-Muttersprache-brightgreen?style=flat-square)
 ![Englisch](https://img.shields.io/badge/Englisch-Fließend-blue?style=flat-square)
 
