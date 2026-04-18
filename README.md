@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, i'm [Yuqi]! 👋
 
-<!--
-**y3qi/y3qi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Hobby-Dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+**💬Languages**
+![Deutsch](https://img.shields.io/badge/Deutsch-Muttersprache-brightgreen?style=flat-square)
+![Englisch](https://img.shields.io/badge/Englisch-Fließend-blue?style=flat-square)
+
+---
+
+### 📈 Statistiken & Views
+
+| **GitHub Stats** | **Profile Views** |
+| :--- | :--- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[y3qi]&show_icons=true&theme=radical) | ![Views](https://komarev.com/ghpvc/?username=[y3qi]&color=blueviolet&style=flat-square) |
+
+---
+
+### 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/[y3qi.])
+
+---
