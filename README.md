@@ -6,16 +6,18 @@
 
 ### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=000000&labelColor=ffffff&color=ffffff)
-![HTML5](https://img.shields.io/badge/html5-ffffff?style=for-the-badge&logo=html5&logoColor=000000&labelColor=ffffff&color=ffffff)
-![CSS3](https://img.shields.io/badge/css3-ffffff?style=for-the-badge&logo=css3&logoColor=000000&labelColor=ffffff&color=ffffff)
+![Python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=000000&color=ffffff)
+![HTML5](https://img.shields.io/badge/html5-ffffff?style=for-the-badge&logo=html5&logoColor=000000&color=ffffff)
+![CSS3](https://img.shields.io/badge/css3-ffffff?style=for-the-badge&logo=css3&logoColor=000000&color=ffffff)
 
 ---
 
 **💬 Languages**
 
-![Deutsch](https://img.shields.io/badge/Deutsch-Muttersprache-ffffff?style=flat-square&logoColor=000000&labelColor=ffffff&color=000000)
-![Englisch](https://img.shields.io/badge/Englisch-Fließend-ffffff?style=flat-square&logoColor=000000&labelColor=ffffff&color=000000)
+![Deutsch](https://img.shields.io/badge/Deutsch-Muttersprache-ffffff?style=flat-square&color=ffffff&labelColor=ffffff&logoColor=000000)
+![Englisch](https://img.shields.io/badge/Englisch-Fließend-ffffff?style=flat-square&color=ffffff&labelColor=ffffff&logoColor=000000)
+
+> *Hinweis: Da GitHub im Light Mode einen weißen Hintergrund hat, erscheinen diese Badges jetzt sehr minimalistisch. Im Dark Mode haben sie einen scharfen Kontrast.*
 
 ---
 
@@ -27,4 +29,4 @@
 
 ### 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000&labelColor=ffffff&color=ffffff)](https://discord.com/users/[y3qi.])
+[![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000&color=ffffff)](https://discord.com/users/[y3qi.])
