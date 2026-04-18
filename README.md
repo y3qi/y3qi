@@ -28,3 +28,5 @@
 ### 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000&color=ffffff)](https://discord.com/users/y3qi.)
+
+> **Discord:** y3qi.
