@@ -27,6 +27,4 @@
 
 ### 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=000000&color=ffffff)](https://discord.com/users/y3qi.)
-
-> **Discord:** y3qi.
+[![Discord Presence](https://lanyard.kyrie25.dev/api/882711995659460619?bg=1a1a1a&waveColor=9f2248&clanbg=9f2248&hideProfile=false&hideSpotify=false&hideStatus=false&hideDecoration=false&showDisplayName=true&theme=dark&idleMessage=Just%20chilling&waveSpotifyColor=9f2248)](https://discord.com/users/882711995659460619)
