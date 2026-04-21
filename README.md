@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=000000&color=ffffff)
 ![HTML5](https://img.shields.io/badge/html5-ffffff?style=for-the-badge&logo=html5&logoColor=000000&color=ffffff)
 ![CSS3](https://img.shields.io/badge/css3-ffffff?style=for-the-badge&logo=css3&logoColor=000000&color=ffffff)
+![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react&logoColor=000000&color=ffffff)
 
 ---
 
